@@ -116,6 +116,6 @@ This project is licensed under the MIT License.
 ## 👤 Author
 
 **Shivam Rawani**
-GitHub: https://github.com/Shivam-OP
+GitHub: https://github.com/Shivam-0P
 
 ---
